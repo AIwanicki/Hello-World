@@ -17,11 +17,11 @@ This is the first setup for my personal Github account
 
 ## How to Run Program 
 
-*No current files for this programs*
+*No current files for this program*
 
 ## Files Used 
 
-No files to date
+*No current files for this program*
 
 ## Additional Documentation
 
