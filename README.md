@@ -27,6 +27,6 @@ This is the first setup for my personal Github account
 
 [Instructions](https://uiowa.instructure.com/courses/189064/files/20446245?wrap=1)
 
-## Versioning
+### Versioning
 
 **First Assignment will add code in future** 
